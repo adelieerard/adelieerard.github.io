@@ -13,7 +13,7 @@ nav_order: 6
 
 ### 2023 - 2024 :
  - Cours et TD mathématiques pour l'informatique (L3 d'informatiques)
- - Encadrement d'un projet de recherche de L1 mathématématiques : Modèles mathématiques pour l'épidémiologie
+ - Encadrement d'un projet de recherche de L1 mathématiques : Modèles mathématiques pour l'épidémiologie
 
 ## Sorbonne Université
 
