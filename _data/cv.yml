@@ -35,23 +35,33 @@
 - title: Experience - to come 
   type: time_table
   contents:
-    - title: 
-      institution: 
-      year: 
-      description:
+    - title: Research internship
+      institution: MAP5, Université Paris Cité
+      year: 2023
+      description: 
+      - Stochastic models for spatially interacting populations.
+      - Supervised by Raphaël Lachièze-Rey
        
-    - title: 
-      institution: 
-      year: 
+    - title: Research internship
+      institution: SMILE, Collège de France
+      year: 2022
       description:
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: 
-      items:
-    - title: 
-      items:
+      - Stochastic models for speciation
+      - Supervised by Amaury Lambert
+      
+    - title: Research internship
+      institution: SMILE, Collège de France
+      year: 2022
+      description: 
+      - Stochastic models for epidemiology
+      - Supervised by Amaury Lambert
+      
+    - title: (Research) Volunteer
+      institution: 3E, Muséum national d'Histoire naturelle
+      year: 2021 - 2022
+      description:
+      - analysis of deep-sea sponge microbiomes with biogeonetworks (R)
+      - Supervised by Magali Castelin and Boris Leroy
 
 - title: Other Interests
   type: list
