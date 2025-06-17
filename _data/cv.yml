@@ -32,9 +32,11 @@
       - 3rd year in NUS (Singapore)
       - 1st and 2nd year in the marine station of Roscoff (Sorbonne University)
 
-- title: Experience - to come 
+- title: Experience
   type: time_table
   contents:
+    - title: Research visit
+      institution: Department of Mathematical Science, Chalmers University of Technology and Gothenburg Universty (Sweden)
     - title: Research internship
       institution: MAP5, Université Paris Cité
       year: 2023
