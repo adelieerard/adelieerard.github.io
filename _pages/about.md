@@ -30,6 +30,4 @@ latest_posts:
 
 PhD student under the supervision of [Raphaël Lachièze-Rey](https://helios2.mi.parisdescartes.fr/~rlachiez/) and [Romain Lorrillière](https://romainlorrilliere.wordpress.com/).
 
-Currently in Sweden to work with Ottmar Cronie in the mathematics department of Chalmers University and Gothenburg University.
-
 My interest are spatial statistics, ecology, stochastic geometry.
