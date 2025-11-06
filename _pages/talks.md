@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 ## Talks
+- 15/01/2026 Séminaire équipe ProbaStat, Université de Poitiers
 - 17/05/2025 [École d'été de la chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2025.html). Modéliser les dynamiques d’abondance à fine échelle : une approche duale fréquentiste et bayésienne aux oiseaux communs. [Slides](https://adelieerard.github.io/assets/pdf/slides_aussois.pdf)
 - 13/05/2025 [Groupe de Travail des Éphémères du MAP5](https://map5.mi.parisdescartes.fr/events/que-font-les-doctorants-seance-ouverte-du-groupe-de-travail-des-ephemeres/). Modéliser les dynamiques d’abondance à fine échelle : une approche duale fréquentiste et bayésienne aux oiseaux communs.
 - 27/05/2025 [Gothenburg PhD Seminar](https://researchseminars.org/seminar/gbgphd). Modeling fine-scale abundance dynamics: a dual frequentist and Bayesian approach applied to common birds.
@@ -18,3 +19,4 @@ nav_order: 4
 
 ## Posters
 - 15/07/2024 [MMEE Vienna](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024). Modelling breeding birds surveys. [Poster](https://adelieerard.github.io/assets/pdf/poster_mmee.pdf)
+- 06/11/2025 [JMBS 2025](https://jmbs2025.sciencesconf.org/?lang=fr). Land sharing is better for farmland bird conservation in France : a spatio-temporal Bayesian analysis of bird community to disentangle the land sparing land sharing debate. [Poster](https://adelieerard.github.io/assets/pdf/poster_jmbs.pdf)

@@ -8,6 +8,9 @@ nav_order: 5
 ---
 
 ## Université Paris cité 
+### 2025 - 2026 :
+ - Cours et TD mathématiques pour l'informatique (L3 d'informatiques)
+ 
 ### 2024 - 2025 :
  - Cours et TD mathématiques pour l'informatique (L3 d'informatiques)
 
