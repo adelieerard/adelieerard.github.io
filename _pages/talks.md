@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 ## Talks
+- 02/02/2026 [Rencontre CiSStats-RESSTE 2026](https://cisstats2026.sciencesconf.org/?lang=fr)
 - 15/01/2026 Séminaire équipe ProbaStat, Université de Poitiers
 - 17/05/2025 [École d'été de la chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2025.html). Modéliser les dynamiques d’abondance à fine échelle : une approche duale fréquentiste et bayésienne appliquée aux oiseaux communs. [Slides](https://adelieerard.github.io/assets/pdf/slides_aussois.pdf)
 - 13/05/2025 [Groupe de Travail des Éphémères du MAP5](https://map5.mi.parisdescartes.fr/events/que-font-les-doctorants-seance-ouverte-du-groupe-de-travail-des-ephemeres/). Modéliser les dynamiques d’abondance à fine échelle : une approche duale fréquentiste et bayésienne appliquée aux oiseaux communs.

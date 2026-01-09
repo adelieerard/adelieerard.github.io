@@ -19,7 +19,7 @@
             - Romain Lorrillière
     - title: Master degree
       institution: Mathématiques pour les sciences du vivant, Université Paris Saclay École polytechnique
-      year: 2023
+      year: 2022- 2023
       description:
     - title: Master degree
       institution: Mathématiques de la modélisation - majeure mathématiques pour la biologie, Sorbonne Université
@@ -65,8 +65,16 @@
       description:
       - analysis of deep-sea sponge microbiomes with biogeonetworks (R)
       - Supervised by Magali Castelin and Boris Leroy
-
+- title : Responsabilities
+  type: time_table
+  content:
+    - title: Elected as PhD representative in the MAP5 council 
+      year: 2025
+    - title: Member of Gender Equality Comitte of the MAP5
+      year: 2023 - now
+    - title: Co organizer of the MAP5 PhD seminar
+      year: 2024 - 2025
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Climbing 
+    - <u>Hobbies:</u> Climbing, Crochet
