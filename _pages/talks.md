@@ -8,8 +8,9 @@ nav_order: 4
 ---
 
 ## Talks
+- 27/03/2026 [Séminaire de Probabilité du MAP5, Université Paris Cité](https://map5.mi.parisdescartes.fr/events/adelie-erard-map5/)
 - 02/02/2026 [Rencontre CiSStats-RESSTE 2026](https://cisstats2026.sciencesconf.org/?lang=fr)
-- 15/01/2026 [Séminaire équipe ProbaStat](https://laboratoire-mathematiques-univ-poitiers.apps.math.cnrs.fr/seminaire-probabilites-statistique-et-applications-26/), Université de Poitiers. Asymptotic properties of estimators for partially observed dependent spatial processes in a random environment.  [Slides](https://adelieerard.github.io/assets/pdf/slides_poitier.pdf)
+- 15/01/2026 [Séminaire équipe ProbaStat, Université de Poitiers.](https://laboratoire-mathematiques-univ-poitiers.apps.math.cnrs.fr/seminaire-probabilites-statistique-et-applications-26/) Asymptotic properties of estimators for partially observed dependent spatial processes in a random environment.  [Slides](https://adelieerard.github.io/assets/pdf/slides_poitier.pdf)
 - 17/05/2025 [École d'été de la chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2025.html). Modéliser les dynamiques d’abondance à fine échelle : une approche duale fréquentiste et bayésienne appliquée aux oiseaux communs. [Slides](https://adelieerard.github.io/assets/pdf/slides_aussois.pdf)
 - 13/05/2025 [Groupe de Travail des Éphémères du MAP5](https://map5.mi.parisdescartes.fr/events/que-font-les-doctorants-seance-ouverte-du-groupe-de-travail-des-ephemeres/). Modéliser les dynamiques d’abondance à fine échelle : une approche duale fréquentiste et bayésienne appliquée aux oiseaux communs.
 - 27/05/2025 [Gothenburg PhD Seminar](https://researchseminars.org/seminar/gbgphd). Modeling fine-scale abundance dynamics: a dual frequentist and Bayesian approach applied to common birds.
