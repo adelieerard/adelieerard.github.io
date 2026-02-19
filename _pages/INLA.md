@@ -4,8 +4,6 @@ permalink: /INLA/
 title: INLA paper
 nav: False
 ---
-
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
