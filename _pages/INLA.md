@@ -1,5 +1,6 @@
 ---
 layout: none
+permalink: /INLA/
 title: INLA paper
 nav: False
 ---
