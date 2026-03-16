@@ -8,9 +8,10 @@ nav_order: 4
 ---
 
 ## Talks
+- 07/04/2026 Séminaire de l'équipe [SMILE](https://smile.cnrs.fr/) du collège de France
 - 23-27/03/2026 Statistiques au sommet de Rochebrune
 - 20/03/2026 [Séminaire de Probabilité du MAP5, Université Paris Cité](https://map5.mi.parisdescartes.fr/events/adelie-erard-map5/)
-- 16/03/2026 Cesco labs days
+- 16/03/2026 Cesco labs days. Land Sharing or Land Sparing? Implications for Farmland Birds of Conservation Concern in France. [Slides](https://adelieerard.github.io/assets/pdf/slides_rocheton.pdf)
 - 02/02/2026 [Rencontre CiSStats-RESSTE 2026](https://cisstats2026.sciencesconf.org/?lang=fr) Modeling fine-scale abundance dynamics: a dual frequentist and Bayesian approach applied to common birds. [Slides](https://adelieerard.github.io/assets/pdf/slides_cisstats.pdf)
 - 15/01/2026 [Séminaire équipe ProbaStat, Université de Poitiers.](https://laboratoire-mathematiques-univ-poitiers.apps.math.cnrs.fr/seminaire-probabilites-statistique-et-applications-26/) Asymptotic properties of estimators for partially observed dependent spatial processes in a random environment.  [Slides](https://adelieerard.github.io/assets/pdf/slides_poitier.pdf)
 - 17/05/2025 [École d'été de la chaire MMB](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2025.html). Modéliser les dynamiques d’abondance à fine échelle : une approche duale fréquentiste et bayésienne appliquée aux oiseaux communs. [Slides](https://adelieerard.github.io/assets/pdf/slides_aussois.pdf)
