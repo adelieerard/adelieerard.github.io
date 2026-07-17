@@ -68,8 +68,8 @@
 - title : Responsabilities
   type: time_table
   contents:
-    #- title: Elected as PhD representative in the MAP5 council 
-     # year: 2026
+    - title: Elected as PhD representative in the MAP5 council 
+      year: 2026
     - title: Member of Gender Equality Comitte of the MAP5
       year: 2023 - now
     - title: Co organizer of the MAP5 PhD seminar

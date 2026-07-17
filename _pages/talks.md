@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 ## Talks
+- 29/06/2026 Day of MAP5 statistic team.  Modeling fine-scale abundance dynamics: a dual frequentist and Bayesian approach applied to common birds. [Slides](https://adelieerard.github.io/assets/pdf/equipe_stat.pdf)
 - 02/06/2026 [57èmes Journées Des Statistiques](https://jds2026.sciencesconf.org/?lang=fr). Asymptotic properties of estimators for partially observed dependent spatial processes in a random environment.
 - 07/04/2026 Séminaire de l'équipe [SMILE](https://smile.cnrs.fr/) du collège de France.  Modeling fine-scale abundance dynamics: a dual frequentist and Bayesian approach applied to common birds. [Slides](https://adelieerard.github.io/assets/pdf/slides_smile.pdf)
 - 23/03/2026 Statistiques au sommet de Rochebrune. Asymptotic properties of estimators for partially observed dependent spatial processes in a random environment.  [Slides](https://adelieerard.github.io/assets/pdf/slides_rochebrune.pdf)
